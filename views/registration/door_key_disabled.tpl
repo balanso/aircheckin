@@ -1,1 +1,0 @@
-<div class="col-12 mb-3"><button type="button" class="btn btn-warning" disabled><i class="fa fa-lock" aria-hidden="true"></i> Открыть дверь на 5 секунд</button><br><small>(Ключ станет доступен в момент заезда)</small></div>

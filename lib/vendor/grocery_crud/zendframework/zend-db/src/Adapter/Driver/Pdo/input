@@ -1,6 +1,0 @@
-SELECT `owners`.* FROM `owners` ORDER BY `name` ASC;
-SELECT `aparts`.`id` AS `id`, `aparts`.`name` AS `name`, `aparts`.`wifi_name` AS `wifi_name`, `aparts`.`wifi_pass` AS `wifi_pass`, `aparts`.`price` AS `price`, `aparts`.`pms_id` AS `pms_id`, `aparts`.`owner_id` AS `owner_id`, `aparts`.`address` AS `address` FROM `aparts` LEFT JOIN `owners` AS `o` ON `aparts`.`owner_id` = `o`.`id` ORDER BY `owners`.`name` DESC LIMIT 10 OFFSET 0;
-SELECT `owners`.* FROM `owners` ORDER BY `name` ASC;
-SELECT `aparts`.`id` AS `id`, `aparts`.`name` AS `name`, `aparts`.`wifi_name` AS `wifi_name`, `aparts`.`wifi_pass` AS `wifi_pass`, `aparts`.`price` AS `price`, `aparts`.`pms_id` AS `pms_id`, `aparts`.`owner_id` AS `owner_id`, `aparts`.`address` AS `address` FROM `aparts` LEFT JOIN `owners` AS `o` ON `aparts`.`owner_id` = `o`.`id` ORDER BY `owners`.`name` DESC LIMIT 10 OFFSET 0;
-SELECT `owners`.* FROM `owners` ORDER BY `name` ASC;
-SELECT `aparts`.`id` AS `id`, `aparts`.`name` AS `name`, `aparts`.`wifi_name` AS `wifi_name`, `aparts`.`wifi_pass` AS `wifi_pass`, `aparts`.`price` AS `price`, `aparts`.`pms_id` AS `pms_id`, `aparts`.`owner_id` AS `owner_id`, `aparts`.`address` AS `address` FROM `aparts` LEFT JOIN `owners` AS `o` ON `aparts`.`owner_id` = `o`.`id` ORDER BY `owners`.`name` DESC LIMIT 10 OFFSET 0;
