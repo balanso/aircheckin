@@ -1,0 +1,12 @@
+﻿{
+  "name": "aeroapart/aeroapart",
+  "require": {
+    "phpmailer/phpmailer": "^6.0",
+    "voronkovich/sberbank-acquiring-client": "^2.3",
+    "colshrapnel/safemysql": "^1.1",
+    "bramus/router": "~1.4",
+    "rbdwllr/reallysimplejwt": "^2.0",
+    "mpdf/mpdf": "^8.0",
+    "monolog/monolog": "^1.24"
+  }
+}
