@@ -1,0 +1,2 @@
+<?
+go('/admin/stat/apart');

@@ -1,0 +1,11 @@
+/docs/*
+/public/orders/*
+/public/img/
+/logs/*
+*.log
+*.pdf
+*.zip
+*.txt
+*.ppk
+*.sublime*
+*.log

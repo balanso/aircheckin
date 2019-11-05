@@ -1,0 +1,1 @@
+   <td valign="top" halign="right" width="40%"><div style="border: 3px solid red; padding:5px"><?=$conditions?></div></td>
